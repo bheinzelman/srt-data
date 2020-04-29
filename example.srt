@@ -1,24 +1,35 @@
 1
 00:00:00,000 --> 00:00:05,000
-line 1
-line 2
+This is a caption.
         
 2
 00:00:05,000 --> 00:00:10,000
-line 2
+These captions are being downloaded from the web, parsed, and displayed in the player.
 
 3
 00:00:10,000 --> 00:00:20,000
-line 3
+These captions are formatted the SRT caption format.
 
 4
-00:00:20,000 --> 00:00:30,000
-Is Swift better than Objective-C?
+00:00:20,000 --> 00:00:25,000
+This is a caption.
         
 5
-00:00:30,000 --> 00:00:40,000
-line 5
+00:00:25,000 --> 00:00:30,000
+These captions are being downloaded from the web, parsed, and displayed in the player.
 
 6
-00:00:40,000 --> 00:00:50,000
-line 6;
+00:00:35,000 --> 00:00:40,000
+These captions are formatted the SRT caption format.
+
+7
+00:00:40,000 --> 00:00:45,000
+This is a caption.
+        
+8
+00:00:45,000 --> 00:00:50,000
+These captions are being downloaded from the web, parsed, and displayed in the player.
+
+9
+00:00:50,000 --> 00:00:55,000
+These captions are formatted the SRT caption format.
