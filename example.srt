@@ -17,8 +17,8 @@ Is Swift better than Objective-C?
         
 5
 00:00:30,000 --> 00:00:40,000
-line 5\n\
+line 5
 
-6\n\
+6
 00:00:40,000 --> 00:00:50,000
 line 6;
